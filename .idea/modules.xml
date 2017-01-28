@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/PlayList.iml" filepath="$PROJECT_DIR$/PlayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/musicdatalayer/musicdatalayer.iml" filepath="$PROJECT_DIR$/musicdatalayer/musicdatalayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/napsteraccess/napsteraccess.iml" filepath="$PROJECT_DIR$/napsteraccess/napsteraccess.iml" />
     </modules>
   </component>
 </project>

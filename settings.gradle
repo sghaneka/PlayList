@@ -1,1 +1,1 @@
-include ':app', ':musicdatalayer'
+include ':app', ':musicdatalayer', ':napsteraccess'
