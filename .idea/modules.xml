@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PlayList.iml" filepath="$PROJECT_DIR$/PlayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicdatalayer/musicdatalayer.iml" filepath="$PROJECT_DIR$/musicdatalayer/musicdatalayer.iml" />
     </modules>
   </component>
 </project>

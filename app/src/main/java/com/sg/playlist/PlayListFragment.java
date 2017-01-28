@@ -17,8 +17,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.sg.MusicLayer.IMusicSource;
-import com.sg.MusicLayer.MusicSource;
+
+import com.sg.musicdatalayer.IMusicSource;
+import com.sg.musicdatalayer.MusicSource;
 
 import java.util.ArrayList;
 import java.util.List;
